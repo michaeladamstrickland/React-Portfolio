@@ -30,7 +30,7 @@ let resumeData = {
         "specialization":"Full Stack Web Development",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2019",
-        "Achievements":"Certificate of Fucll Stack Web Development"
+        "Achievements":"Certificate of Full Stack Web Development"
       },
      
     ],

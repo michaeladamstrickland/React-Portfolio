@@ -12,4 +12,5 @@ A simple SPA Portfolio template for developer/designers built with React. Use it
 3. Change the values in ```src/resumeData.js``` to suit your use-case.
 4. Run ```npm start``` to spin the up the local dev server port 3000.(http://localhost:3000).
 5. Make required changes in ```src/resumeData.js``` to suit your needs.
+6. this app is deployed on heroku @- https://warm-taiga-30272.herokuapp.com/
 
