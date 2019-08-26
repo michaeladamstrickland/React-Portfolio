@@ -3,7 +3,7 @@ let resumeData = {
     "role": "Full Stack Developer and Software Engineer",
     "linkedinId":"https://www.linkedin.com/in/michaeladamstrickland/",
     "skypeid": "Your skypeid",
-    "roleDescription": "I love the challenges and day to day learning that comes with building a great project.",
+    "roleDescription": " I love the challenges and day to day learning that comes with building a great project.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -40,11 +40,18 @@ let resumeData = {
         "specialization":"Website Developer",
         "MonthOfLeaving":"July",
         "YearOfLeaving":"2019",
-        "Achievements":"Some Achievements"
+        "Duties":"create, and maintain full functionality of site."
       },
+      // {
+      //   "CompanyName":"",
+      //   "specialization":"Website Developer",
+      //   "MonthOfLeaving":"July",
+      //   "YearOfLeaving":"2019",
+      //   "Achievements":"Some Achievements"
+      // },
     
     ],
-    "skillsDescription":"HTML, CSS, JAVASCRIPT, NODEJS, SQL, NOSQL, REACTJS",
+    "skillsDescription":"HTML, CSS, JAVASCRIPT, NODEJS, SQL, Angular, REACTJS",
     "skills":[
       {
         "skillname":"HTML5"
@@ -73,9 +80,9 @@ let resumeData = {
         "imgurl":"images/portfolio/rockpaperscissors.jpg"
       },
       {
-        "name":"hangman",
+        "name":"Realestae react app",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/Hangman.jpg"
+        "imgurl":"images/portfolio/real-estae-app.png"
       },
       {
         "name":"The Office Fan Page",
@@ -83,7 +90,7 @@ let resumeData = {
         "imgurl":"images/portfolio/theOffice.jpg"
       },
       {
-        "name":"Beach Resort",
+        "name":" React Beach Resort",
         "description":"mobileapp",
         "imgurl":"images/portfolio/beachResort.jpg"
       }
