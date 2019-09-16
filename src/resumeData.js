@@ -17,8 +17,13 @@ let resumeData = {
         },
         {
           "name":"skype",
-          "url":"",
-          "className":"fa fa-twitter"
+          "url":"tel:+8562369293",
+          "className":"fa fa-mobile"
+        },
+        {
+          "name":"skype",
+          "url":"../images/michael strickland web dev.pdf",
+          "className":"fa fa-file"
         }
       ],
     "aboutme":"At the very first time I wrote any code I knew this was the right carrer path for me, and I just couldn't wait to learn more. The day to day chellenges that come with development keep me always wanting more. Working with technology like JavaScript, MySQL, NodeJs, And React have been such an amazing and eye opening experience. I have been able to build some amazing things, and can not wait to see what I get to work on next. I work as a Full Stack Web Developer with a true passion for both front-end and back-end development. I love the art that comes with front-end, and the percision and challenges that come with the back-end.",
