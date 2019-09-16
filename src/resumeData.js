@@ -22,7 +22,7 @@ let resumeData = {
         },
         {
           "name":"skype",
-          "url":"../images/michael strickland web dev.pdf",
+          "url":"../images/Michael Strickland web dev.pdf",
           "className":"fa fa-file fa-2x"
         }
       ],
