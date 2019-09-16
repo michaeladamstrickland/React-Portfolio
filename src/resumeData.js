@@ -8,22 +8,22 @@ let resumeData = {
         {
           "name":"linkedin",
           "url":"https://www.linkedin.com/in/michaeladamstrickland//",
-          "className":"fa fa-linkedin"
+          "className":"fa fa-linkedin fa-2x"
         },
         {
           "name":"github",
           "url":"https://github.com/michaeladamstrickland",
-          "className":"fa fa-github"
+          "className":"fa fa-github fa-2x"
         },
         {
           "name":"skype",
-          "url":"tel:+8562369293",
-          "className":"fa fa-mobile"
+          "url":"tel: 8562369293",
+          "className":"fa fa-mobile fa-2x"
         },
         {
           "name":"skype",
           "url":"../images/michael strickland web dev.pdf",
-          "className":"fa fa-file"
+          "className":"fa fa-file fa-2x"
         }
       ],
     "aboutme":"At the very first time I wrote any code I knew this was the right carrer path for me, and I just couldn't wait to learn more. The day to day chellenges that come with development keep me always wanting more. Working with technology like JavaScript, MySQL, NodeJs, And React have been such an amazing and eye opening experience. I have been able to build some amazing things, and can not wait to see what I get to work on next. I work as a Full Stack Web Developer with a true passion for both front-end and back-end development. I love the art that comes with front-end, and the percision and challenges that come with the back-end.",
