@@ -60,7 +60,7 @@ export default class Porfolio extends Component {
           <Media heading>
             Bech Resort
           </Media>
-          Beach Resort is a web and mobile app that takes a fantasey beach resort and gives you the option to pick your fantasey vacation. this app gives the consumer the option to compare and choose the perfect beach front room for your next vacation.
+          Beach Resort is a web and mobile app that takes a fantasy beach resort and gives you the option to pick your fantasy vacation. this app gives the consumer the option to compare and choose the perfect beach front room for your next vacation.
         </Media>
       </Media>
       <Media>
