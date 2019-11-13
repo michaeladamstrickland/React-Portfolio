@@ -41,7 +41,7 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Jay Ablah Photography",
+        "CompanyName":"FreeLance Web Developer",
         "specialization":"Website Developer",
         "MonthOfLeaving":"July",
         "YearOfLeaving":"2019",
