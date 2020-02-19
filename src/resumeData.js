@@ -41,11 +41,11 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"FreeLance Web Developer",
-        "specialization":"Website Developer",
-        "MonthOfLeaving":"July",
-        "YearOfLeaving":"2019",
-        "Duties":"create, and maintain full functionality of site."
+        "CompanyName":"Reed Group",
+        "specialization":"Software Engineer",
+        "MonthOfLeaving":"January",
+        "YearOfLeaving":" 2020",
+        "Duties":"Create, and maintain full functionality of site. Write functioning and usuable code. Create Single Page Applications for enterprise level clients. Research new ways to improve current code base."
       },
       // {
       //   "CompanyName":"",
